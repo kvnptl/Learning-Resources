@@ -4,10 +4,25 @@ This repo is my hand picked lessons or resources from the vast pull of content a
 
 ## TODO: Import links from my bookmark table on Firefox, Pocket app, Google Keep app, and Microsoft TO-DO app 
 
-# Robotics
-1. https://github.com/mithi/robotics-coursework
+### Completed courses
 
-# Programming
+
+### Current Courses
+
+
+### Wishlist Courses
+
+
+# Robotics
+1. [Robotics coursework by MITHI](https://github.com/mithi/robotics-coursework)
+2. [QUT university Robot academy](https://robotacademy.net.au/) 
+3. [MIT Open course work](https://ocw.mit.edu/search/ocwsearch.htm?q=robotics)
+4. [University of Freiburg - Autonomous Intelligent Systems](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php)
+
+# Programming C++
+- [Udemy: Beginning C++ Programming - From Beginner to Beyond (affordable)](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+
+# Programming Python
 
 
 # Physics
@@ -17,3 +32,9 @@ This repo is my hand picked lessons or resources from the vast pull of content a
 
 
 # Psychology 
+
+
+# My Book list
+
+# MISC
+- [MIT most visited courses](https://ocw.mit.edu/courses/most-visited-courses/)
