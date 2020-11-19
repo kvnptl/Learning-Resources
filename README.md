@@ -19,6 +19,9 @@ This repo is my hand picked lessons or resources from the vast pull of content a
 3. [MIT Open course work](https://ocw.mit.edu/search/ocwsearch.htm?q=robotics)
 4. [University of Freiburg - Autonomous Intelligent Systems](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php)
 
+# ROS
+- [ROS World 2020 videos](https://vimeo.com/showcase/rosworld2020)
+
 # Programming C++
 - [Udemy: Beginning C++ Programming - From Beginner to Beyond (affordable)](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
 
