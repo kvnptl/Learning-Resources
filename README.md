@@ -18,6 +18,7 @@ This repo is my hand picked lessons or resources from the vast pull of content a
 2. [QUT university Robot academy](https://robotacademy.net.au/) 
 3. [MIT Open course work](https://ocw.mit.edu/search/ocwsearch.htm?q=robotics)
 4. [University of Freiburg - Autonomous Intelligent Systems](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php)
+5. [Free High quality courses ZIP files](https://www.eng.yale.edu/grablab/roboticscourseware/courses.html)
 
 # ROS
 - [ROS World 2020 videos](https://vimeo.com/showcase/rosworld2020)
