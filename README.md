@@ -1,5 +1,5 @@
 # Learning-Resources
-This repo is my hand picked lessons or resources from the vast pull of content available on internet. It's not related to any specific topic or field rather the list can have content from any field (category wise).
+This repo is my hand-picked lessons or resources from the vast pull of content available on the internet. It's not related to any specific topic or field; instead, the list can have content from any field (category-wise).
 
 
 ## TODO: Import links from my bookmark table on Firefox, Pocket app, Google Keep app, and Microsoft TO-DO app 
@@ -19,12 +19,18 @@ This repo is my hand picked lessons or resources from the vast pull of content a
 3. [MIT Open course work](https://ocw.mit.edu/search/ocwsearch.htm?q=robotics)
 4. [University of Freiburg - Autonomous Intelligent Systems](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php)
 5. [Free High quality courses ZIP files](https://www.eng.yale.edu/grablab/roboticscourseware/courses.html)
+6. [Autonomous Mobile Robots - ETHx - edX](https://courses.edx.org/courses/course-v1:ETHx+AMRx+2T2020/course/)
 
 # ROS
-- [ROS World 2020 videos](https://vimeo.com/showcase/rosworld2020)
+1. [ROS World 2020 videos](https://vimeo.com/showcase/rosworld2020)
+2. [Hello (Real) World with ROS – Robot Operating System - edX](https://courses.edx.org/courses/course-v1:DelftX+ROS1x+1T2020/course/)
 
 # Programming C++
-- [Udemy: Beginning C++ Programming - From Beginner to Beyond (affordable)](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+- [Beginning C++ Programming - From Beginner to Beyond (affordable) - Udemny](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+
+# Machine Learning/AI/Deep-Learning
+
+
 
 # Programming Python
 
