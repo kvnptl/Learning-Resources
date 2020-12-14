@@ -40,7 +40,7 @@ This repo is my hand-picked lessons or resources from the vast pull of content a
 
 
 # Ayurveda
-1. [Rogi Swayam Chikitsak & Rogi Swayam Nirikshak](https://www.amazon.in/gp/product/B073PBQCW6/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+1. [Rogi Swayam Chikitsak & Rogi Swayam Nirikshak - Rajiv Dixit](https://www.amazon.in/gp/product/B073PBQCW6/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 
 
 # Psychology 
