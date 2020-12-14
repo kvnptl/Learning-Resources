@@ -24,6 +24,7 @@ This repo is my hand-picked lessons or resources from the vast pull of content a
 # ROS
 1. [ROS World 2020 videos](https://vimeo.com/showcase/rosworld2020)
 2. [Hello (Real) World with ROS – Robot Operating System - edX](https://courses.edx.org/courses/course-v1:DelftX+ROS1x+1T2020/course/)
+3. [Programming for Robotics - ROS - ETHz - Free Online videos](https://rsl.ethz.ch/education-students/lectures/ros.html)
 
 # Programming C++
 - [Beginning C++ Programming - From Beginner to Beyond (affordable) - Udemny](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
@@ -39,6 +40,7 @@ This repo is my hand-picked lessons or resources from the vast pull of content a
 
 
 # Ayurveda
+1. [Rogi Swayam Chikitsak & Rogi Swayam Nirikshak](https://www.amazon.in/gp/product/B073PBQCW6/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 
 
 # Psychology 
