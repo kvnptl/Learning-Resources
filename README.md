@@ -30,7 +30,7 @@ This repo is my hand-picked lessons or resources from the vast pull of content a
 - [Beginning C++ Programming - From Beginner to Beyond (affordable) - Udemny](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
 
 # Machine Learning/AI/Deep-Learning
-
+1. [Introduction to Machine Learning - MIT Open Learning Library - No certificate](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/welcome/6_036_Information_You_Should_Know/)
 
 
 # Programming Python
