@@ -20,6 +20,7 @@ This repo is my hand-picked lessons or resources from the vast pull of content a
 4. [University of Freiburg - Autonomous Intelligent Systems](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php)
 5. [Free High quality courses ZIP files](https://www.eng.yale.edu/grablab/roboticscourseware/courses.html)
 6. [Autonomous Mobile Robots - ETHx - edX](https://courses.edx.org/courses/course-v1:ETHx+AMRx+2T2020/course/)
+7. [Getting started in Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 
 # ROS
 1. [ROS World 2020 videos](https://vimeo.com/showcase/rosworld2020)
