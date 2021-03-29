@@ -4,15 +4,6 @@ This repo is my hand-picked lessons or resources from the vast pull of content a
 
 ## TODO: Import links from my bookmark table on Firefox, Pocket app, Google Keep app, and Microsoft TO-DO app 
 
-### Completed courses
-
-
-### Current Courses
-
-
-### Wishlist Courses
-
-
 # Robotics
 1. [Robotics coursework by MITHI](https://github.com/mithi/robotics-coursework)
 2. [QUT university Robot academy](https://robotacademy.net.au/) 
