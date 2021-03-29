@@ -42,6 +42,14 @@ This repo is my hand-picked lessons or resources from the vast pull of content a
 
 
 # My Book list
+1. Life of Pie - Yann Martel
+2. Tuesdays with Morrie - Mitch Albom
+3. Five Point Someone - Chetan Bhagat
+4. Digital Fortress - Dan Brown
+
+# Book on-going:
+1. The Power of Habit - Charles Duhigg
+
 
 # MISC
 - [MIT most visited courses](https://ocw.mit.edu/courses/most-visited-courses/)
