@@ -34,6 +34,8 @@ This repo is my hand-picked lessons or resources from the vast pull of content a
 # Machine Learning/AI/Deep-Learning
 1. [Introduction to Machine Learning - MIT Open Learning Library - No certificate](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/welcome/6_036_Information_You_Should_Know/)
 
+# Mathematics for Robotics/Machine-Learning
+1. [Robotics 101: Computational Linear Algebra - Michigan Robotics](https://github.com/michiganrobotics/rob101)
 
 # Programming Python
 
