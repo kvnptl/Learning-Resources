@@ -27,6 +27,7 @@ This repo is my hand-picked lessons or resources from the vast pull of content a
 
 # Mathematics for Robotics/Machine-Learning
 1. [Robotics 101: Computational Linear Algebra - Michigan Robotics](https://github.com/michiganrobotics/rob101)
+2. [Mathematics For Machine Learning](https://github.com/mml-book/mml-book.github.io)
 
 # Programming Python
 
