@@ -54,3 +54,4 @@ This repo is my hand-picked lessons or resources from the vast pull of content a
 
 # MISC
 - [MIT most visited courses](https://ocw.mit.edu/courses/most-visited-courses/)
+- [IvLabs - Resources and Roadmaps for AI and Robotics](https://github.com/IvLabs/resources)
