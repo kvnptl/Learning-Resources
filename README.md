@@ -20,7 +20,12 @@ This repo is my hand-picked lessons or resources from the vast pull of content a
 3. [Programming for Robotics - ROS - ETHz - Free Online videos](https://rsl.ethz.ch/education-students/lectures/ros.html)
 
 # Programming C++
-- [Beginning C++ Programming - From Beginner to Beyond (affordable) - Udemny](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+1. [Beginning C++ Programming - From Beginner to Beyond (affordable) - Udemny](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+2. [C++ nanodegree - Udacity](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
+3. [Modern C++ Course - Uni. Bonn](https://www.ipb.uni-bonn.de/teaching/modern-cpp/)
+
+# Programming Python
+
 
 # Machine Learning/AI/Deep-Learning
 1. [Introduction to Machine Learning - MIT Open Learning Library - No certificate](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/welcome/6_036_Information_You_Should_Know/)
@@ -28,8 +33,6 @@ This repo is my hand-picked lessons or resources from the vast pull of content a
 # Mathematics for Robotics/Machine-Learning
 1. [Robotics 101: Computational Linear Algebra - Michigan Robotics](https://github.com/michiganrobotics/rob101)
 2. [Mathematics For Machine Learning](https://github.com/mml-book/mml-book.github.io)
-
-# Programming Python
 
 
 # Physics
