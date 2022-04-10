@@ -1,5 +1,5 @@
 # Learning-Resources
-This repo is my hand-picked lessons or resources from the vast pull of content available on the internet. It's not related to any specific topic or field; instead, the list can have content from various fields (category-wise).
+This repo is my hand-picked lessons or resources from a vast pool of content available on the internet. It's not related to any specific topic or field; instead, the list can have various fields (category-wise) content.
 
 
 ## TODO: Import links from my bookmark table on Firefox, Pocket app, Google Keep app, and Microsoft TO-DO app 
