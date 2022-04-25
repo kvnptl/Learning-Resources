@@ -40,6 +40,7 @@ This repo is my hand-picked lessons or resources from a vast pool of content ava
 23. [Book | Computer Vision: Algorithms and Applications, 2nd ed.](https://szeliski.org/Book/)
 24. [OpenCV official | Computer-Vision-Resources.pdf](https://www.learnopencv.com/wp-content/uploads/2020/05/Computer-Vision-Resources.pdf?ck_subscriber_id=1643815251)
 25. [Github Repository official | Learn OpenCV : C++ and Python Examples](https://github.com/spmallick/learnopencv)
+26. [Deep Learning for Computer Vision | University of Michigan](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/)
 
 
 # ROS
