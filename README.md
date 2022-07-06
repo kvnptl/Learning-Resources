@@ -43,6 +43,10 @@ This repo is my hand-picked lessons or resources from a vast pool of content ava
 26. [Deep Learning for Computer Vision | University of Michigan](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/)
 27. [Deep Learning for Computer Vision (YouTube playlist) | University of Michigan](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
+# 3D: Everything about 3D
+
+1. 3D AI Lab (TU Munich): https://www.3dunderstanding.org/index.html
+
 
 # ROS
 1. [ROS World 2020 videos](https://vimeo.com/showcase/rosworld2020)
@@ -76,7 +80,7 @@ This repo is my hand-picked lessons or resources from a vast pool of content ava
 # Psychology 
 
 
-# My Book list
+# DMy Book list
 1. Life of Pie - Yann Martel
 2. Tuesdays with Morrie - Mitch Albom
 3. Five Point Someone - Chetan Bhagat
