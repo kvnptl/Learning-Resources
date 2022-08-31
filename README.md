@@ -68,6 +68,7 @@ This repo is my hand-picked lessons or resources from a vast pool of content ava
 1. [Robotics 101: Computational Linear Algebra - Michigan Robotics](https://github.com/michiganrobotics/rob101)
 2. [Robotics 501: Mathematics for Robotics - Michigan Robotics](https://github.com/michiganrobotics/rob501)
 3. [Mathematics For Machine Learning](https://github.com/mml-book/mml-book.github.io)
+4. [Mathematics For Machine Learning](https://github.com/dair-ai/Mathematics-for-ML)
 
 
 # Physics
